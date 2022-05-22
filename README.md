@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Installing this app:
+1. clone the repo ..using git clone <link>
+2. open in IDE
+3. "npm install" in the Terminal 
+4. "npm start" in the Terminal
+
 
 ## Available Scripts
 
